@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+*.log
+explorations
+temp
+types/v3-generated.d.ts
